@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Consolas';
+    src: url(Consolas.ttf);
+}
+body {
+    background-color:black;
+}
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Consolas';
+    color:lime;
+    text-align: center;
+}
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:60%;
+}
